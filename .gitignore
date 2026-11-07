@@ -1,0 +1,6 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot MCP plugin local undo cache
+addons/godot_mcp/cache/
